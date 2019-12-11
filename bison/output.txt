@@ -1,0 +1,13 @@
+VarName: a
+Wasn't declared before
+VarName: b
+Wasn't declared before
+VarName: c
+Wasn't declared before
+Multiple declaration
+VarName: b1
+Wasn't declared before
+VarName: b_1
+Wasn't declared before
+Multiple declaration
+ERROR: Wasn't declared before
